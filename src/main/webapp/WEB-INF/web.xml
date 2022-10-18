@@ -20,5 +20,8 @@
 	<password>263c54d5172a605f7cb99e293b2ec4e7bb34b784ec12ce479ef095983b82f6b5</password>
     </data-source>	
     
+    <servlet>
+        <servlet-name>Servlet_control</servlet-name>
+    </servlet>
     
 </web-app>
