@@ -11,7 +11,7 @@
     
     <data-source>
 	<description>DataSource heroku</description>
-	<name>java:app/heroku</name>
+	<name>java:app/herokuEV3</name>
 	<class-name>org.postgresql.ds.PGSimpleDataSource</class-name>
 	<server-name>ec2-107-23-76-12.compute-1.amazonaws.com</server-name>
 	<port-number>5432</port-number>
